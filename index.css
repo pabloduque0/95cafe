@@ -272,6 +272,43 @@ img {
     height: auto;
     border-radius: var(--radius-md);
     display: block;
+    transition: transform 0.3s ease;
+}
+
+.menu-link {
+    display: block;
+    text-decoration: none;
+    cursor: zoom-in;
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius-md);
+}
+
+.menu-link::after {
+    content: "🔍 View full size";
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    background: rgba(59, 31, 11, 0.8);
+    color: var(--white);
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    font-weight: 500;
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    pointer-events: none;
+}
+
+.menu-link:hover::after {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.menu-link:hover .menu-image {
+    transform: scale(1.01);
 }
 
 /* ============================================
