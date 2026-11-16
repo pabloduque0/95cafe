@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>95 Café — Specialty Coffee in Madrid</title>
-    <meta name="description" content="95 Café — Specialty coffee now open in Arganzuela, Madrid. Crafted with passion, served with love.">
-    <meta name="keywords" content="specialty coffee, Madrid, Arganzuela, coffee shop, café, 95 cafe">
+    <title>95 Café — Café de Especialidad en Madrid</title>
+    <meta name="description" content="95 Café — Café de especialidad en Arganzuela, Madrid. Hecho con pasión, servido con cariño.">
+    <meta name="keywords" content="café de especialidad, specialty coffee, Madrid, Arganzuela, coffee shop, café, 95 cafe">
     <link rel="icon" type="image/png" href="assets/logo-filled-vertical.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="index.css?v=20261116">
+    <link rel="stylesheet" href="index.css?v=20261116b">
 </head>
 <body>
+
+    <!-- Language Switcher -->
+    <div class="lang-switcher" role="group" aria-label="Selector de idioma">
+        <button type="button" class="lang-btn active" data-lang="es" aria-pressed="true">ES</button>
+        <button type="button" class="lang-btn" data-lang="en" aria-pressed="false">EN</button>
+    </div>
 
     <!-- Floating coffee beans decoration -->
     <div class="beans-decoration" aria-hidden="true">
@@ -28,12 +34,12 @@
                 <img src="assets/logo-filled-vertical.png" alt="95 Café Logo" class="logo-img" id="main-logo">
             </div>
             <div class="hero-text">
-                <p class="hero-tagline">Specialty Coffee</p>
+                <p class="hero-tagline" data-i18n="hero.tagline">Café de Especialidad</p>
                 <div class="divider"></div>
-                <p class="hero-subtitle">Crafted with passion, served with love.<br>Enjoy the best specialty coffee experience in Madrid.</p>
+                <p class="hero-subtitle" data-i18n-html="hero.subtitle">Hecho con pasión, servido con cariño.<br>Disfruta del mejor café de especialidad en Madrid.</p>
             </div>
         </div>
-        <a href="#menu" class="scroll-hint" aria-label="Scroll to menu">
+        <a href="#menu" class="scroll-hint" aria-label="Ir a la carta" data-i18n-aria-label="hero.scrollAria">
             <span class="scroll-arrow"></span>
         </a>
     </section>
@@ -41,10 +47,10 @@
     <!-- Menu Section -->
     <section id="menu" class="menu-section">
         <div class="menu-container">
-            <h2>Our Menu</h2>
+            <h2 data-i18n="menu.title">Nuestra Carta</h2>
             <div class="menu-wrapper">
-                <a href="assets/MENU BARRA_Septiembre.png" target="_blank" rel="noopener noreferrer" class="menu-link" title="Open menu in full size">
-                    <img src="assets/MENU BARRA_Septiembre.png" alt="95 Café Menu" class="menu-image">
+                <a href="assets/MENU BARRA_Septiembre.png" target="_blank" rel="noopener noreferrer" class="menu-link" title="Abrir carta en tamaño completo" data-i18n-title="menu.zoomTitle" data-zoom-label="🔍 Ver en tamaño completo" data-i18n-zoom="menu.zoomLabel">
+                    <img src="assets/MENU BARRA_Septiembre.png" alt="Carta de 95 Café" class="menu-image" data-i18n-alt="menu.imgAlt">
                 </a>
             </div>
         </div>
@@ -53,22 +59,31 @@
     <!-- Online Store Section -->
     <section id="shop" class="shop-section">
         <div class="shop-container">
-            <h2>Online Store</h2>
-            <p class="shop-subtitle">Curated specialty coffee &amp; gourmet packs, available for online order and pickup at 95 Café.</p>
+            <h2 data-i18n="shop.title">Tienda Online</h2>
+            <p class="shop-subtitle" data-i18n="shop.subtitle">Selección de cafés de especialidad y packs gourmet para disfrutar en casa.</p>
+            <div class="pickup-banner">
+                <svg class="pickup-banner-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <path d="M16 10a4 4 0 0 1-8 0"></path>
+                </svg>
+                <span data-i18n-html="shop.pickupBanner"><strong>Recogida exclusiva en tienda:</strong> compra online y recoge tu pedido directamente en 95 Café (Arganzuela, Madrid).</span>
+            </div>
             <div class="products-grid">
                 <a href="https://95cafe.sumupstore.com/product/pack-95-cafe-tentacion" target="_blank" rel="noopener noreferrer" class="product-card">
                     <div class="product-image-wrap">
                         <img src="assets/pack-tentacion.png" alt="Pack 95 Café Tentación" class="product-image" width="640" height="640" loading="lazy">
+                        <span class="product-pickup-badge" data-i18n="shop.pickupBadge">Recogida en tienda</span>
                     </div>
                     <div class="product-body">
                         <h3 class="product-title">Pack 95 Café Tentación</h3>
-                        <p class="product-desc">Gushe Buna Ethiopia specialty coffee (250g) paired with Cocuisine organic 90% chocolate and organic ghee.</p>
+                        <p class="product-desc" data-i18n="shop.tentacionDesc">Café de especialidad Gushe Buna de Etiopía (250 g) acompañado de chocolate ecológico 90 % y ghee ecológico de Cocuisine.</p>
                         <div class="product-footer">
                             <div class="product-price-group">
                                 <span class="product-price">71,80 €</span>
                                 <span class="product-price-old">84,49 €</span>
                             </div>
-                            <span class="product-cta">View pack <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
+                            <span class="product-cta"><span data-i18n="shop.viewPack">Ver pack</span> <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
                         </div>
                     </div>
                 </a>
@@ -76,16 +91,17 @@
                 <a href="https://95cafe.sumupstore.com/product/pack-95-cafe-club" target="_blank" rel="noopener noreferrer" class="product-card">
                     <div class="product-image-wrap">
                         <img src="assets/pack-club.png" alt="Pack 95 Café Club" class="product-image" width="640" height="640" loading="lazy">
+                        <span class="product-pickup-badge" data-i18n="shop.pickupBadge">Recogida en tienda</span>
                     </div>
                     <div class="product-body">
                         <h3 class="product-title">Pack 95 Café Club</h3>
-                        <p class="product-desc">Three origins of specialty coffee by BADi Coffee Roasters: Kenya, Ethiopia, and Colombia Decaf (750g total).</p>
+                        <p class="product-desc" data-i18n="shop.clubDesc">Tres orígenes de café de especialidad de BADi Coffee Roasters: Kenia, Etiopía y Colombia Descafeinado (750 g en total).</p>
                         <div class="product-footer">
                             <div class="product-price-group">
                                 <span class="product-price">39,50 €</span>
                                 <span class="product-price-old">46,50 €</span>
                             </div>
-                            <span class="product-cta">View pack <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
+                            <span class="product-cta"><span data-i18n="shop.viewPack">Ver pack</span> <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
                         </div>
                     </div>
                 </a>
@@ -93,23 +109,24 @@
                 <a href="https://95cafe.sumupstore.com/product/pack-95-apertivo-gourmet" target="_blank" rel="noopener noreferrer" class="product-card">
                     <div class="product-image-wrap">
                         <img src="assets/pack-aperitivo-gourmet.png" alt="Pack 95 Apertivo Gourmet" class="product-image" width="640" height="640" loading="lazy">
+                        <span class="product-pickup-badge" data-i18n="shop.pickupBadge">Recogida en tienda</span>
                     </div>
                     <div class="product-body">
                         <h3 class="product-title">Pack 95 Apertivo Gourmet</h3>
-                        <p class="product-desc">Kiambu Nyeri Kenya coffee (250g) with Cocuisine gourmet preserves in EVOO and spring salt.</p>
+                        <p class="product-desc" data-i18n="shop.aperitivoDesc">Café Kiambu Nyeri de Kenia (250 g) con conservas gourmet en AOVE y sal de manantial de Cocuisine.</p>
                         <div class="product-footer">
                             <div class="product-price-group">
                                 <span class="product-price">36,70 €</span>
                                 <span class="product-price-old">43,20 €</span>
                             </div>
-                            <span class="product-cta">View pack <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
+                            <span class="product-cta"><span data-i18n="shop.viewPack">Ver pack</span> <span class="product-cta-arrow" aria-hidden="true">&rarr;</span></span>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="shop-store-link-wrap">
                 <a href="https://95cafe.sumupstore.com/" target="_blank" rel="noopener noreferrer" class="shop-store-link">
-                    Visit full online store <span aria-hidden="true">&rarr;</span>
+                    <span data-i18n="shop.visitStore">Visitar tienda online completa</span> <span aria-hidden="true">&rarr;</span>
                 </a>
             </div>
         </div>
@@ -120,7 +137,7 @@
         <div class="location-container">
             <div class="location-info">
                 <img src="assets/logo-outline-horizontal.png" alt="95 Café" class="location-logo">
-                <h2>Find Us</h2>
+                <h2 data-i18n="location.title">Encuéntranos</h2>
                 <div class="address-card">
                     <div class="address-icon">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -141,9 +158,9 @@
                         </svg>
                     </div>
                     <div class="address-text">
-                        <p class="address-line">Opening Hours</p>
-                        <p class="address-detail">Mon - Tue: Closed</p>
-                        <p class="address-detail">Wed - Sun: 8:30 - 17:30</p>
+                        <p class="address-line" data-i18n="location.hoursTitle">Horario</p>
+                        <p class="address-detail" data-i18n="location.hoursClosed">Lun - Mar: Cerrado</p>
+                        <p class="address-detail" data-i18n="location.hoursOpen">Mié - Dom: 8:30 - 17:30</p>
                     </div>
                 </div>
                 <a href="https://www.instagram.com/95cafe.madrid/" target="_blank" rel="noopener noreferrer" class="address-card instagram-card" style="text-decoration: none;">
@@ -169,7 +186,8 @@
                     allowfullscreen=""
                     loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"
-                    title="95 Café Location">
+                    title="Ubicación de 95 Café"
+                    data-i18n-title="location.mapTitle">
                 </iframe>
             </div>
         </div>
@@ -179,7 +197,7 @@
     <footer class="footer">
         <div class="footer-content">
             <img src="assets/logo-filled-horizontal.png" alt="95 Café" class="footer-logo">
-            <p class="footer-text">Specialty coffee, crafted with passion.</p>
+            <p class="footer-text" data-i18n="footer.text">Café de especialidad, hecho con pasión.</p>
             <div class="footer-social">
                 <a href="https://www.instagram.com/95cafe.madrid/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="footer-social-link">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -190,10 +208,10 @@
                 </a>
             </div>
             <div class="footer-divider"></div>
-            <p class="footer-copy">&copy; 2025 95 Café. All rights reserved.</p>
+            <p class="footer-copy" data-i18n="footer.copy">&copy; 2025 95 Café. Todos los derechos reservados.</p>
         </div>
     </footer>
 
-    <script src="index.js?v=20261116"></script>
+    <script src="index.js?v=20261116b"></script>
 </body>
 </html>
