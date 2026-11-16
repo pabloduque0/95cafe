@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, observerOptions);
 
     // Observe animated elements
-    document.querySelectorAll('.location-info, .map-wrapper, .menu-wrapper').forEach(el => {
+    document.querySelectorAll('.location-info, .map-wrapper, .menu-wrapper, .product-card').forEach(el => {
         observer.observe(el);
     });
 
