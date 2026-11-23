@@ -1,0 +1,39 @@
+# 95 Café — Café de Especialidad en Arganzuela, Madrid (Specialty Coffee)
+
+> 95 Café es una cafetería de especialidad, desayuno saludable (healthy breakfast & brunch) y punto de encuentro para runners, ciclistas y amantes de los perros (100% dog-friendly, listado en SrPerro) situada en el barrio de Imperial / Acacias (Distrito de Arganzuela, Pasillo Verde / Madrid Río), en P.º de Juan Antonio Vallejo-Nájera Botas, 55, 28005 Madrid, España.
+
+## Datos clave / Key Facts
+- **Nombre / Name:** 95 Café
+- **Dirección / Address:** P.º de Juan Antonio Vallejo-Nájera Botas, 55, Arganzuela (Imperial / Acacias / Pasillo Verde), 28005 Madrid, España
+- **Coordenadas GPS / Coordinates:** 40.40187, -3.70768
+- **Zona y puntos cercanos / Nearby Landmarks:** Pasillo Verde Ferroviario, Madrid Río, Puerta de Toledo, Pirámides (Metro L5 y Cercanías), Acacias (Metro L5), Embajadores (Metro L3 / Cercanías)
+- **Horario / Opening Hours:**
+  - Lunes y Martes (Mon - Tue): Cerrado / Closed
+  - Miércoles a Domingo (Wed - Sun): 08:30 – 17:30
+- **Web oficial / Website:** https://www.95cafe.es/
+- **Tienda Online (Recogida en tienda) / Online Store (In-store pickup):** https://95cafe.sumupstore.com/
+- **Instagram:** https://www.instagram.com/95cafe.madrid/ (@95cafe.madrid)
+
+## Estilo de vida y características / Lifestyle & Amenities
+- **Café de Especialidad (Specialty Coffee):** Trabajamos con cafés de especialidad de tueste local e internacional, incluyendo orígenes seleccionados de **BADi Coffee Roasters** (Etiopía Gushe Buna, Kenia Kan Gunu Farmers, Colombia Descafeinado Nasa We'sx).
+- **Dog-Friendly / Pet-Friendly:** Los perros son siempre bienvenidos tanto dentro del local como en la terraza (reconocido en guías dog-friendly de Madrid como SrPerro).
+- **Running & Cycling Community (Run & Bike Club):** Punto de parada y encuentro habitual para corredores (runners) y ciclistas (cycling / gravel / road bike) por su cercanía a Madrid Río, Casa de Campo y el Pasillo Verde de Arganzuela.
+- **Comida Saludable y Artesanal (Healthy & Organic Food):** Tostadas en pan de hogaza de masa madre, ingredientes ecológicos de **Cocuisine** (Aceite de Oliva Virgen Extra AOVE ecológico, chocolate 90% eco, ghee eco, conservas en AOVE eco), aguacate, salmón ahumado noruego premium, burrata, matcha latte, chai latte y zumo ecológico.
+- **Terraza:** Espacio exterior agradable en el bulevar ajardinado del Paseo de Juan Antonio Vallejo-Nájera Botas.
+
+## Resumen de la Carta / Menu Summary (Precios en EUR)
+- **Bebidas Calientes / Hot Drinks:** Espresso (2,20 €), Cortado (2,40 €), Americano (2,50 €), Café con leche (2,90 € / 3,60 €), Cappuccino (3,20 €), Flat white (3,40 €), Matcha Latte (3,80 €), Chai Latte (3,80 €), Infusiones (2,50 €).
+- **Bebidas Frías / Cold Drinks:** Cold Brew (4,00 €), Espresso Tonic (4,50 €), Iced Americano (3,00 €), Iced Latte (3,30 €), Iced Matcha Latte (4,20 €), Iced Chai Latte (4,20 €), Agua (2,50 €), Agua con gas / Refresco (2,80 €), Zumo Ecológico (2,90 €).
+- **Opciones / Customizations:** Café descafeinado de especialidad (Colombia), bebida/leche vegetal o Iced (+0,50 €), extra shot de espresso (+1,00 €).
+- **Tostadas (Pan de hogaza de masa madre / Sourdough Toast):** Aceite AOVE (Cocuisine) y tomate (3,50 €), Mantequilla y mermelada (3,90 €), Burrata, nueces y miel (6,30 €), Aceite AOVE (Cocuisine) y aguacate (6,50 €), Burrata, tomate seco y mortadela (7,00 €). Extras: Jamón cocido (+2,50 €), Paleta 50% Ibérica (+3,00 €), Aguacate (+3,00 €), Salmón ahumado noruego premium (+3,90 €).
+- **Sándwiches (Pan brioche clásico / Brioche Sandwiches):** Brioche tostado con mermelada (3,40 € / 4,20 €), Mixto jamón y queso (5,90 €), Croissant plancha mixto (6,60 €), Salmón ahumado noruego y queso crema (7,60 €), Burrata, aguacate y mortadela (7,60 €).
+- **Obrador / Bakery:** Croissant (3,00 €), Bizcocho de naranja o chocolate (3,00 €), Napolitana de chocolate (3,30 €), Croissant plancha con mermelada (4,20 €), Obrador del día (consultar).
+
+## Packs y Café en Grano para Casa / Coffee Beans & Gourmet Packs
+Disponibles en tienda y mediante compra online con recogida en el local (https://95cafe.sumupstore.com/):
+- **Pack 95 Café Tentación (76,00 €):** Café Gushe Buna · Etiopía (250 g, BADi Coffee Roasters), Chocolate 90 % Eco y Ghee Eco de Cocuisine.
+- **Pack 95 Café Club (41,85 €):** Tres orígenes de BADi Coffee Roasters (750 g total): Kan Gunu Farmers (Kenia), Gushe Buna (Etiopía) y Nasa We'sx (Colombia Descafeinado).
+- **Pack 95 Apertivo Gourmet (38,90 €):** Café Kan Gunu Farmers · Kenia (250 g) con conservas en AOVE ecológico (bonito del norte, melva y sardinas) y sal de manantial (1 kg) de Cocuisine.
+
+## Más información detallada / Detailed Reference
+- [Documentación completa para LLMs (Carta completa, FAQs y detalles)](https://www.95cafe.es/llms-full.txt)

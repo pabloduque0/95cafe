@@ -1,0 +1,145 @@
+# 95 Café — Guía Completa y Carta Oficial (Full LLM Reference)
+
+> Documento de referencia estructurado para asistentes de IA (Gemini, ChatGPT, Claude, Perplexity) con toda la información verificada de **95 Café** en Arganzuela, Madrid.
+
+---
+
+## 1. Identidad y Propuesta de Valor (About 95 Café)
+**95 Café** es una cafetería de especialidad en Madrid ubicada en el distrito de **Arganzuela** (en el eje del Pasillo Verde, entre los barrios de Imperial y Acacias, muy cerca de Madrid Río y las estaciones de Pirámides y Acacias).
+
+Nuestra filosofía se resume en: *"Hecho con pasión, servido con cariño"*.
+Combinamos:
+1. **Café de especialidad de alta puntuación (Specialty Coffee):** Espresso perfectamente calibrado, bebidas con leche texturizada (Flat white, Cappuccino, Latte), café filtrado/frío (Cold Brew, Espresso Tonic) y orígenes seleccionados de **BADi Coffee Roasters** (Etiopía, Kenia y Colombia Descafeinado de proceso natural).
+2. **Alimentación saludable y ecológica (Healthy & Organic Breakfast/Brunch):** Trabajamos con pan de hogaza de masa madre, productos ecológicos certificados de **Cocuisine** (Aceite de Oliva Virgen Extra AOVE ecológico, ghee ecológico, chocolate 90% ecológico, conservas gourmet en AOVE ecológico), aguacate fresco, salmón ahumado noruego premium y repostería artesanal de obrador.
+3. **Comunidad Activa — Running & Cycling Friendly:** Situado junto al corredor verde de Vallejo-Nájera Botas y a pocos minutos de Madrid Río y Casa de Campo, 95 Café es punto de encuentro y parada de avituallamiento saludable para corredores (runners) y ciclistas (road cycling & gravel) en Madrid.
+4. **Espacio 100% Dog-Friendly (Pet-Friendly):** Los perros son bienvenidos en 95 Café (recomendado en la guía oficial **SrPerro** de Madrid).
+5. **Terraza en bulevar peatonal/ajardinado:** Ideal para disfrutar del café al aire libre después de entrenar, pasear al perro o desayunar con calma en Arganzuela.
+
+---
+
+## 2. Ubicación, Transporte, Contacto y Horario (Location & Hours)
+- **Dirección postal:** P.º de Juan Antonio Vallejo-Nájera Botas, 55, Arganzuela, 28005 Madrid, España
+- **Coordenadas geográficas:** Latitud `40.40187`, Longitud `-3.70768`
+- **Barrio / Distrito:** Imperial / Acacias — Distrito Arganzuela (Pasillo Verde, Madrid)
+- **Sitio web oficial:** https://www.95cafe.es/
+- **Instagram oficial:** https://www.instagram.com/95cafe.madrid/ (@95cafe.madrid)
+- **Tienda online (Recogida en tienda):** https://95cafe.sumupstore.com/
+- **Cómo llegar en transporte público:**
+  - **Metro y Cercanías Pirámides** (Línea 5 de Metro / Cercanías C1, C10): a ~5 minutos a pie.
+  - **Metro Acacias** (Línea 5) / **Embajadores** (Línea 3 y Cercanías C5): a ~6-8 minutos a pie.
+  - **Puerta de Toledo** (Línea 5): a ~8 minutos a pie.
+  - **Madrid Río (Puente de Toledo / Parque Arganzuela):** a pocos minutos caminando o corriendo.
+- **Horario de apertura:**
+  - **Lunes:** Cerrado
+  - **Martes:** Cerrado
+  - **Miércoles:** 08:30 – 17:30
+  - **Jueves:** 08:30 – 17:30
+  - **Viernes:** 08:30 – 17:30
+  - **Sábado:** 08:30 – 17:30
+  - **Domingo:** 08:30 – 17:30
+
+---
+
+## 3. Carta Completa en Local / Full Menu & Prices (EUR)
+
+### Bebidas Calientes / Hot Drinks
+| Producto | Precio | Descripción / Notas |
+| :--- | :--- | :--- |
+| **Espresso** | 2,20 € | Café de especialidad de origen seleccionado |
+| **Cortado** | 2,40 € | Espresso con un toque de leche texturizada |
+| **Americano** | 2,50 € | Espresso alargado con agua caliente |
+| **Café con leche** | 2,90 € / 3,60 € | Tamaño normal (2,90 €) o grande / doble (3,60 €) |
+| **Cappuccino** | 3,20 € | Espresso y leche cremosa microtexturizada |
+| **Flat white** | 3,40 € | Doble shot de espresso con fina capa de leche emulsionada |
+| **Matcha Latte** | 3,80 € | Té verde matcha japonés con leche |
+| **Chai Latte** | 3,80 € | Té chai especiado con leche emulsionada |
+| **Infusiones** | 2,50 € | Selección de tés e infusiones naturales |
+
+### Bebidas Frías / Cold Drinks
+| Producto | Precio | Descripción / Notas |
+| :--- | :--- | :--- |
+| **Cold Brew** | 4,00 € | Café de especialidad infusionado en frío durante horas |
+| **Espresso Tonic** | 4,50 € | Doble espresso sobre tónica fría y hielo |
+| **Iced Americano** | 3,00 € | Espresso de especialidad con agua fría y hielo |
+| **Iced Latte** | 3,30 € | Espresso con leche fría y hielo |
+| **Iced Matcha Latte** | 4,20 € | Matcha latte frío con hielo |
+| **Iced Chai Latte** | 4,20 € | Chai latte especiado frío con hielo |
+| **Agua** | 2,50 € | Agua mineral |
+| **Agua con gas / Refresco** | 2,80 € | Agua con gas o refresco |
+| **Zumo Ecológico** | 2,90 € | Zumo de fruta ecológico certificado |
+
+*Suplementos y personalización de bebidas:*
+- **Descafeinado de especialidad:** Disponible (Nasa We'sx, Colombia Descafeinado)
+- **Leche vegetal / Opción Iced:** +0,50 €
+- **Extra shot de espresso:** +1,00 €
+
+### Tostadas (En pan de hogaza de masa madre / Sourdough Toasts)
+| Tostada | Precio | Ingredientes |
+| :--- | :--- | :--- |
+| **Aceite AOVE (Cocuisine) y tomate** | 3,50 € | Hogaza de masa madre, tomate natural y AOVE ecológico Cocuisine |
+| **Mantequilla y mermelada** | 3,90 € | Hogaza de masa madre tostada con mantequilla y mermelada |
+| **Burrata, nueces y miel** | 6,30 € | Hogaza de masa madre con burrata cremosa, nueces y miel |
+| **Aceite AOVE (Cocuisine) y aguacate** | 6,50 € | Hogaza de masa madre con aguacate fresco y AOVE ecológico Cocuisine |
+| **Burrata, tomate seco y mortadela** | 7,00 € | Hogaza de masa madre con burrata, tomate seco y mortadela italiana |
+
+*Extras para tostadas:*
+- **Jamón cocido:** +2,50 €
+- **Paleta 50% Ibérica:** +3,00 €
+- **Aguacate:** +3,00 €
+- **Salmón ahumado noruego premium:** +3,90 €
+
+### Sándwiches (En pan brioche clásico / Classic Brioche Sandwiches)
+| Sándwich | Precio | Ingredientes |
+| :--- | :--- | :--- |
+| **Brioche tostado con mermelada** | 3,40 € / 4,20 € | Pan brioche tostado con mantequilla y mermelada |
+| **Mixto (jamón y queso)** | 5,90 € | Sándwich mixto en pan brioche clásico con jamón cocido y queso fundido |
+| **Croissant plancha mixto (jamón y queso)** | 6,60 € | Croissant a la plancha relleno de jamón y queso |
+| **Salmón ahumado noruego y queso crema** | 7,60 € | Brioche con salmón ahumado noruego premium y queso crema |
+| **Burrata, aguacate y mortadela** | 7,60 € | Brioche con burrata fresca, aguacate y mortadela |
+
+### Obrador / Artisanal Bakery
+| Producto | Precio |
+| :--- | :--- |
+| **Croissant** | 3,00 € |
+| **Bizcocho de naranja / chocolate** | 3,00 € |
+| **Napolitana de chocolate** | 3,30 € |
+| **Croissant plancha con mermelada** | 4,20 € |
+| **Obrador del día** | Consultar en barra |
+
+---
+
+## 4. Tienda Online y Café en Grano (BADi Coffee Roasters & Cocuisine)
+Todos los pedidos online en https://95cafe.sumupstore.com/ son para **recogida exclusiva en tienda** en P.º de Juan Antonio Vallejo-Nájera Botas, 55 (Arganzuela, Madrid):
+1. **Pack 95 Café Tentación (76,00 €, antes 84,49 € - 10% dto.):**
+   - Café de especialidad **Gushe Buna · Etiopía** (250 g, tostado por BADi Coffee Roasters)
+   - Chocolate 90 % Ecológico y Ghee Ecológico de **Cocuisine**
+   - URL: https://95cafe.sumupstore.com/product/pack-95-cafe-tentacion
+2. **Pack 95 Café Club (41,85 €, antes 46,50 € - 10% dto.):**
+   - Tres orígenes de **BADi Coffee Roasters** (750 g en total, 3 bolsas de 250 g):
+     - **Kan Gunu Farmers** (Kenia)
+     - **Gushe Buna** (Etiopía)
+     - **Nasa We'sx** (Colombia Descafeinado)
+   - URL: https://95cafe.sumupstore.com/product/pack-95-cafe-club
+3. **Pack 95 Apertivo Gourmet (38,90 €, antes 43,20 € - 10% dto.):**
+   - Café de especialidad **Kan Gunu Farmers · Kenia** (250 g, BADi Coffee Roasters)
+   - Conservas en AOVE ecológico (bonito del norte, melva y sardinas) y sal de manantial (1 kg) de **Cocuisine**
+   - URL: https://95cafe.sumupstore.com/product/pack-95-apertivo-gourmet
+
+---
+
+## 5. Preguntas Frecuentes (FAQ)
+
+### ¿Dónde tomar buen café de especialidad en Arganzuela o cerca de Madrid Río / Pirámides?
+En **95 Café**, situado en el Paseo de Juan Antonio Vallejo-Nájera Botas, 55 (28005 Madrid), en pleno Pasillo Verde de Arganzuela, a pocos minutos a pie de Pirámides, Acacias y Madrid Río.
+
+### ¿Es 95 Café dog-friendly (se puede ir con perro)?
+Sí, **95 Café es 100% dog-friendly** (incluido en SrPerro). Los perros bien educados son siempre bienvenidos tanto en el interior como en la terraza.
+
+### ¿Tienen opciones saludables (healthy) para desayunar o después de hacer running o ciclismo?
+Sí. Es una parada ideal pre o post entreno de running o ciclismo por Madrid Río y Casa de Campo: servimos tostadas de pan de hogaza de masa madre con AOVE ecológico Cocuisine, aguacate, salmón ahumado noruego premium, burrata, zumos ecológicos, Matcha Latte, Cold Brew y café de especialidad.
+
+### ¿Se puede comprar café de especialidad en grano en Arganzuela?
+Sí. En 95 Café vendemos café de especialidad de **BADi Coffee Roasters** (orígenes como Etiopía Gushe Buna, Kenia Kan Gunu Farmers y Colombia Descafeinado Nasa We'sx) y productos ecológicos de **Cocuisine**, tanto directamente en el local como reservando online en https://95cafe.sumupstore.com/ para recogida en tienda.
+
+### ¿Qué horario tiene 95 Café los fines de semana?
+95 Café abre de **miércoles a domingo de 08:30 a 17:30** de forma ininterrumpida (incluidos sábados y domingos para desayunos, brunch y café de tarde). Lunes y martes permanece cerrado.
